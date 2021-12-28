@@ -1,0 +1,14 @@
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\bin\Debug\netcoreapp3.1\CompnayEmployee.exe
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\bin\Debug\netcoreapp3.1\CompnayEmployee.deps.json
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\bin\Debug\netcoreapp3.1\CompnayEmployee.runtimeconfig.json
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\bin\Debug\netcoreapp3.1\CompnayEmployee.runtimeconfig.dev.json
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\bin\Debug\netcoreapp3.1\CompnayEmployee.dll
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\bin\Debug\netcoreapp3.1\CompnayEmployee.pdb
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\obj\Debug\netcoreapp3.1\CompnayEmployee.csproj.AssemblyReference.cache
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\obj\Debug\netcoreapp3.1\CompnayEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\obj\Debug\netcoreapp3.1\CompnayEmployee.AssemblyInfoInputs.cache
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\obj\Debug\netcoreapp3.1\CompnayEmployee.AssemblyInfo.cs
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\obj\Debug\netcoreapp3.1\CompnayEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\obj\Debug\netcoreapp3.1\CompnayEmployee.dll
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\obj\Debug\netcoreapp3.1\CompnayEmployee.pdb
+C:\Users\Baxtiyar\source\repos\CompnayEmployee\CompnayEmployee\obj\Debug\netcoreapp3.1\CompnayEmployee.genruntimeconfig.cache
